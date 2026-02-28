@@ -1,0 +1,19 @@
+﻿  bird.cpp
+  bullet.cpp
+  effect.cpp
+  game.cpp
+  points.cpp
+C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\points.cpp(83,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\points.cpp(84,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\points.cpp(107,11): warning C4305: '-=': truncation from 'double' to 'float'
+  position.cpp
+  score.cpp
+  skeetInterface.cpp
+C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeetInterface.cpp(210,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeetInterface.cpp(211,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  skeetLogic.cpp
+  skeetStorage.cpp
+  time.cpp
+  uiInteract.cpp
+  Generating Code...
+  Skeet.vcxproj -> C:\Users\Michael J\source\repos\SeparationOfConcernsTrue\x64\Debug\Skeet.exe
