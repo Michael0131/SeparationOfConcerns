@@ -20,7 +20,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="bird.cpp" />
-    <ClCompile Include="bullet.cpp" />
     <ClCompile Include="effect.cpp" />
     <ClCompile Include="game.cpp" />
     <ClCompile Include="points.cpp" />
@@ -33,8 +32,10 @@
     <ClCompile Include="uiInteract.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="bullet.h" />
     <ClInclude Include="bird.h" />
+    <ClInclude Include="bulletInterface.h" />
+    <ClInclude Include="bulletLogic.h" />
+    <ClInclude Include="bulletStorage.h" />
     <ClInclude Include="effect.h" />
     <ClInclude Include="gunInterface.h" />
     <ClInclude Include="gunLogic.h" />

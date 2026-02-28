@@ -3,7 +3,7 @@
 #include <list>
 #include "position.h"
 #include "bird.h"
-#include "bullet.h"
+#include "bulletInterface.h"
 #include "effect.h"
 #include "gunInterface.h"
 #include "time.h"
