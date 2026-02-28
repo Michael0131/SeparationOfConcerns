@@ -1,5 +1,5 @@
 #pragma once
-#include "BulletLogic.h"
+#include "bulletLogic.h"
 #include <list>
 
 #ifdef __APPLE__

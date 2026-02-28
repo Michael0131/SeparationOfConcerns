@@ -1,62 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\",
+  "WorkspaceRootPath": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\bulletInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:bulletInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\bulletLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:bulletLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\bulletStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:bulletStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:skeetStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetStorage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetStorage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:skeetStorage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:skeetLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetLogic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetLogic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:skeetLogic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:skeetInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:skeetInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\gunLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:gunLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\gunStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\gunStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:gunStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\gunInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\gunLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:gunLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\gunInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:gunInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\effectStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:effectStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bulletLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:bulletLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bulletStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:bulletStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bulletInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:bulletInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bird.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:bird.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bird.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:bird.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\effectInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:effectInterface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\effectLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7BB2D43-EBB3-4D58-9064-6E74A18316D7}|Skeet.vcxproj|solutionrelative:effectLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,172 +94,250 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "bulletLogic.h",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\bulletLogic.h",
-              "RelativeDocumentMoniker": "bulletLogic.h",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\bulletLogic.h",
-              "RelativeToolTip": "bulletLogic.h",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAIwH4AAAA2AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "effectStorage.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\effectStorage.h",
+              "RelativeDocumentMoniker": "effectStorage.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\effectStorage.h",
+              "RelativeToolTip": "effectStorage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-28T01:34:52.099Z"
+              "WhenOpened": "2026-02-28T19:54:07.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "bulletStorage.h",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\bulletStorage.h",
-              "RelativeDocumentMoniker": "bulletStorage.h",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\bulletStorage.h",
-              "RelativeToolTip": "bulletStorage.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-28T01:34:33.933Z"
+              "DocumentIndex": 10,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\game.cpp",
+              "RelativeDocumentMoniker": "game.cpp",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-28T01:18:20.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "game.cpp",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\game.cpp",
-              "RelativeDocumentMoniker": "game.cpp",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\game.cpp",
-              "RelativeToolTip": "game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-28T01:18:20.313Z"
+              "Title": "gunInterface.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\gunInterface.h",
+              "RelativeDocumentMoniker": "gunInterface.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\gunInterface.h",
+              "RelativeToolTip": "gunInterface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-28T00:36:56.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "skeetInterface.cpp",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetInterface.cpp",
-              "RelativeDocumentMoniker": "skeetInterface.cpp",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetInterface.cpp",
-              "RelativeToolTip": "skeetInterface.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-28T01:17:53.204Z"
+              "Title": "gunLogic.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\gunLogic.h",
+              "RelativeDocumentMoniker": "gunLogic.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\gunLogic.h",
+              "RelativeToolTip": "gunLogic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-28T00:35:06.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "skeetInterface.h",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetInterface.h",
-              "RelativeDocumentMoniker": "skeetInterface.h",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetInterface.h",
-              "RelativeToolTip": "skeetInterface.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
+              "Title": "gunStorage.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\gunStorage.h",
+              "RelativeDocumentMoniker": "gunStorage.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\gunStorage.h",
+              "RelativeToolTip": "gunStorage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-28T01:17:38.026Z"
+              "WhenOpened": "2026-02-28T00:34:47.65Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "skeetLogic.cpp",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetLogic.cpp",
-              "RelativeDocumentMoniker": "skeetLogic.cpp",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetLogic.cpp",
-              "RelativeToolTip": "skeetLogic.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAALAAAAAAAAAA==",
+              "Title": "skeetInterface.cpp",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetInterface.cpp",
+              "RelativeDocumentMoniker": "skeetInterface.cpp",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetInterface.cpp",
+              "RelativeToolTip": "skeetInterface.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-28T01:17:16.409Z"
+              "WhenOpened": "2026-02-28T01:17:53.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "skeetLogic.h",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetLogic.h",
-              "RelativeDocumentMoniker": "skeetLogic.h",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetLogic.h",
-              "RelativeToolTip": "skeetLogic.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Title": "skeetInterface.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetInterface.h",
+              "RelativeDocumentMoniker": "skeetInterface.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetInterface.h",
+              "RelativeToolTip": "skeetInterface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-28T01:16:55.696Z"
+              "WhenOpened": "2026-02-28T01:17:38.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "skeetStorage.cpp",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetStorage.cpp",
-              "RelativeDocumentMoniker": "skeetStorage.cpp",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetStorage.cpp",
-              "RelativeToolTip": "skeetStorage.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "skeetLogic.cpp",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetLogic.cpp",
+              "RelativeDocumentMoniker": "skeetLogic.cpp",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetLogic.cpp",
+              "RelativeToolTip": "skeetLogic.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-28T01:16:36.953Z"
+              "WhenOpened": "2026-02-28T01:17:16.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "skeetStorage.h",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetStorage.h",
-              "RelativeDocumentMoniker": "skeetStorage.h",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\skeetStorage.h",
-              "RelativeToolTip": "skeetStorage.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Title": "skeetLogic.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetLogic.h",
+              "RelativeDocumentMoniker": "skeetLogic.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetLogic.h",
+              "RelativeToolTip": "skeetLogic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-28T00:47:22.973Z"
+              "WhenOpened": "2026-02-28T01:16:55.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "skeetStorage.cpp",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetStorage.cpp",
+              "RelativeDocumentMoniker": "skeetStorage.cpp",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetStorage.cpp",
+              "RelativeToolTip": "skeetStorage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-28T01:16:36.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "skeetStorage.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetStorage.h",
+              "RelativeDocumentMoniker": "skeetStorage.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\skeetStorage.h",
+              "RelativeToolTip": "skeetStorage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-28T00:47:22.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "time.cpp",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\time.cpp",
+              "RelativeDocumentMoniker": "time.cpp",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\time.cpp",
+              "RelativeToolTip": "time.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-28T00:38:13.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bulletLogic.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bulletLogic.h",
+              "RelativeDocumentMoniker": "bulletLogic.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bulletLogic.h",
+              "RelativeToolTip": "bulletLogic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-28T01:34:52.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bulletStorage.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bulletStorage.h",
+              "RelativeDocumentMoniker": "bulletStorage.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bulletStorage.h",
+              "RelativeToolTip": "bulletStorage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-28T01:34:33.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "bulletInterface.h",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\bulletInterface.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bulletInterface.h",
               "RelativeDocumentMoniker": "bulletInterface.h",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\bulletInterface.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bulletInterface.h",
               "RelativeToolTip": "bulletInterface.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-02-28T01:35:07.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "time.cpp",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\time.cpp",
-              "RelativeDocumentMoniker": "time.cpp",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\time.cpp",
-              "RelativeToolTip": "time.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "bird.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bird.h",
+              "RelativeDocumentMoniker": "bird.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bird.h",
+              "RelativeToolTip": "bird.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-28T20:08:11.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bird.cpp",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bird.cpp",
+              "RelativeDocumentMoniker": "bird.cpp",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\bird.cpp",
+              "RelativeToolTip": "bird.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-28T00:38:13.735Z"
+              "WhenOpened": "2026-02-28T20:08:06.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "gunInterface.h",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\gunInterface.h",
-              "RelativeDocumentMoniker": "gunInterface.h",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\gunInterface.h",
-              "RelativeToolTip": "gunInterface.h",
-              "ViewState": "AgIAACEAAAAAAAAAAADwvzgAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "effectInterface.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\effectInterface.h",
+              "RelativeDocumentMoniker": "effectInterface.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\effectInterface.h",
+              "RelativeToolTip": "effectInterface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-28T00:36:56.784Z"
+              "WhenOpened": "2026-02-28T19:54:39.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "gunLogic.h",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\gunLogic.h",
-              "RelativeDocumentMoniker": "gunLogic.h",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\gunLogic.h",
-              "RelativeToolTip": "gunLogic.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAACAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "effectLogic.h",
+              "DocumentMoniker": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\effectLogic.h",
+              "RelativeDocumentMoniker": "effectLogic.h",
+              "ToolTip": "C:\\Users\\mathk\\OneDrive\\Documents\\To Laptop - Doc\\BYU-I\\Winter 2026 Semester\\Design Patterns\\SeparationOfConcerns\\effectLogic.h",
+              "RelativeToolTip": "effectLogic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-28T00:35:06.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "gunStorage.h",
-              "DocumentMoniker": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\gunStorage.h",
-              "RelativeDocumentMoniker": "gunStorage.h",
-              "ToolTip": "C:\\Users\\Michael J\\source\\repos\\SeparationOfConcernsTrue\\gunStorage.h",
-              "RelativeToolTip": "gunStorage.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-28T00:34:47.65Z"
+              "WhenOpened": "2026-02-28T19:54:23.551Z",
+              "EditorCaption": ""
             }
           ]
         }

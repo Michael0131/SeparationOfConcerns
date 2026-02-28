@@ -4,7 +4,7 @@
 #include "position.h"
 #include "bird.h"
 #include "bulletInterface.h"
-#include "effect.h"
+#include "effectInterface.h"
 #include "gunInterface.h"
 #include "time.h"
 #include "score.h"
