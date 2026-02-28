@@ -14,7 +14,7 @@
 #include "bird.h"
 #include "bullet.h"
 #include "effect.h"
-#include "gun.h"
+#include "GunInterface.h"
 #include "time.h"
 #include "score.h"
 #include "points.h"
@@ -52,7 +52,7 @@ private:
                    double redBack, double greenBack, double blueBack) const;
     void drawBullseye(double angle) const;
 
-    Gun gun;                       // the gun
+    GunInterface gun;                       // the gun
     std::list<Bird*> birds;        // all the shootable birds
     std::list<Bullet*> bullets;    // the bullets
     std::list<Effect*> effects;    // the fragments of a dead bird.
