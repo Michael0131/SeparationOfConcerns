@@ -26,7 +26,9 @@
     <ClCompile Include="points.cpp" />
     <ClCompile Include="position.cpp" />
     <ClCompile Include="score.cpp" />
-    <ClCompile Include="skeet.cpp" />
+    <ClCompile Include="skeetInterface.cpp" />
+    <ClCompile Include="skeetLogic.cpp" />
+    <ClCompile Include="skeetStorage.cpp" />
     <ClCompile Include="time.cpp" />
     <ClCompile Include="uiInteract.cpp" />
   </ItemGroup>
@@ -40,7 +42,9 @@
     <ClInclude Include="points.h" />
     <ClInclude Include="position.h" />
     <ClInclude Include="score.h" />
-    <ClInclude Include="skeet.h" />
+    <ClInclude Include="skeetInterface.h" />
+    <ClInclude Include="skeetLogic.h" />
+    <ClInclude Include="skeetStorage.h" />
     <ClInclude Include="time.h" />
     <ClInclude Include="uiInteract.h" />
   </ItemGroup>

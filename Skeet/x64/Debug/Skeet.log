@@ -8,14 +8,11 @@ C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\points.cpp(84,18): warn
 C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\points.cpp(107,11): warning C4305: '-=': truncation from 'double' to 'float'
   position.cpp
   score.cpp
-  skeet.cpp
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeet.cpp(267,14): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeet.cpp(268,14): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeet.cpp(275,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeet.cpp(276,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeet.cpp(278,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeet.cpp(279,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeet.cpp(282,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  skeetInterface.cpp
+C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeetInterface.cpp(210,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeetInterface.cpp(211,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  skeetLogic.cpp
+  skeetStorage.cpp
   time.cpp
   uiInteract.cpp
   Generating Code...

@@ -5,6 +5,8 @@ C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\game.cpp;C:\Users\Micha
 C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\points.cpp;C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\Skeet\x64\Debug\points.obj
 C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\position.cpp;C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\Skeet\x64\Debug\position.obj
 C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\score.cpp;C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\Skeet\x64\Debug\score.obj
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeet.cpp;C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\Skeet\x64\Debug\skeet.obj
+C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeetInterface.cpp;C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\Skeet\x64\Debug\skeetInterface.obj
+C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeetLogic.cpp;C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\Skeet\x64\Debug\skeetLogic.obj
+C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeetStorage.cpp;C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\Skeet\x64\Debug\skeetStorage.obj
 C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\time.cpp;C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\Skeet\x64\Debug\time.obj
 C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\uiInteract.cpp;C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\Skeet\x64\Debug\uiInteract.obj
