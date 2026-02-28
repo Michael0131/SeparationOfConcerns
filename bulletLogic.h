@@ -1,6 +1,6 @@
 #pragma once
-#include "BulletStorage.h"
-#include "effect.h"
+#include "bulletStorage.h"
+#include "effectInterface.h"
 #include <list>
 #include <cassert>
 #include <cstdlib>  // rand()

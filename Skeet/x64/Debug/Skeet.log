@@ -1,18 +1,18 @@
 ﻿  bird.cpp
-  effect.cpp
   game.cpp
   points.cpp
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\points.cpp(83,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\points.cpp(84,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\points.cpp(107,11): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\mathk\OneDrive\Documents\To Laptop - Doc\BYU-I\Winter 2026 Semester\Design Patterns\SeparationOfConcerns\points.cpp(83,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mathk\OneDrive\Documents\To Laptop - Doc\BYU-I\Winter 2026 Semester\Design Patterns\SeparationOfConcerns\points.cpp(84,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mathk\OneDrive\Documents\To Laptop - Doc\BYU-I\Winter 2026 Semester\Design Patterns\SeparationOfConcerns\points.cpp(107,11): warning C4305: '-=': truncation from 'double' to 'float'
   position.cpp
   score.cpp
   skeetInterface.cpp
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeetInterface.cpp(210,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\Michael J\Source\Repos\SeparationOfConcernsTrue\skeetInterface.cpp(211,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mathk\OneDrive\Documents\To Laptop - Doc\BYU-I\Winter 2026 Semester\Design Patterns\SeparationOfConcerns\skeetInterface.cpp(210,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mathk\OneDrive\Documents\To Laptop - Doc\BYU-I\Winter 2026 Semester\Design Patterns\SeparationOfConcerns\skeetInterface.cpp(211,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
   skeetLogic.cpp
   skeetStorage.cpp
   time.cpp
   uiInteract.cpp
   Generating Code...
-  Skeet.vcxproj -> C:\Users\Michael J\source\repos\SeparationOfConcernsTrue\x64\Debug\Skeet.exe
+  LINK : C:\Users\mathk\OneDrive\Documents\To Laptop - Doc\BYU-I\Winter 2026 Semester\Design Patterns\SeparationOfConcerns\x64\Debug\Skeet.exe not found or not built by the last incremental link; performing full link
+  Skeet.vcxproj -> C:\Users\mathk\OneDrive\Documents\To Laptop - Doc\BYU-I\Winter 2026 Semester\Design Patterns\SeparationOfConcerns\x64\Debug\Skeet.exe
